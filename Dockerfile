@@ -1,6 +1,6 @@
 FROM node:12
 
-LABEL maintainer "Davenchy <firon1222@gmail.com>"
+
 LABEL description "Build Live-Torrent server image"
 LABEL version "3.0"
 
